@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85d0e16-8ad7-4b32-ba2b-535f8585addb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kxdPkRlvz7jViTzsxSUNxTBvat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85d0e16-8ad7-4b32-ba2b-535f8585addb" name="Default Changelist" comment="" />
+      <created>1606646157340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606646157340</updated>
+      <workItem from="1606646167109" duration="880000" />
+      <workItem from="1606828168276" duration="2807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1114" height="214" key="GridCell.Tab.0.bottom" timestamp="1606670325534">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1114" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1606670325534" />
+    <state width="1114" height="214" key="GridCell.Tab.0.center" timestamp="1606670325533">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1114" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1606670325533" />
+    <state width="1114" height="214" key="GridCell.Tab.0.left" timestamp="1606670325532">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1114" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1606670325532" />
+    <state width="1114" height="214" key="GridCell.Tab.0.right" timestamp="1606670325534">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1114" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1606670325534" />
+    <state x="585" y="170" key="NewPhpClassDialog" timestamp="1606646973754">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="585" y="170" key="NewPhpClassDialog/0.23.1440.828@0.23.1440.828" timestamp="1606646973754" />
+  </component>
+</project>
